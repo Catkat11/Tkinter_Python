@@ -5,3 +5,6 @@ Projekt "Quizz" wykorzystuje biblioteki requests, html oraz tkinter. Projekt pol
 
 
 Projekt "kanye_quotes" wykorzystuje biblioteki tkinter i requests. Pozwala na wyświetlanie losowych cytatów Kanye Westa po kliknięciu przycisku.
+
+
+Projekt "pomodoro" wykorzystuje biblioteki tkinter oraz math. Jego działanie polega na symulacji techniki "Pomodoro", która polega na cyklicznym wykonywaniu pracy przez określony czas, z przerwami pomiędzy sesjami.
